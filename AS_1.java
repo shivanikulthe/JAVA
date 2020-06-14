@@ -9,6 +9,6 @@ public static void int main(string[] args)
 {
   ans=n*i;
 }
-system.out.pritln(ans);
+system.out.println(ans);
 }
 }
