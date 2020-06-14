@@ -1,6 +1,6 @@
 public class AS_1
 {
-public static void int main(string[] args)
+public static void int main(String[] args)
 {
  int n=2;
  int ans;
@@ -8,7 +8,7 @@ public static void int main(string[] args)
  for(i=1;i<=10;i++)
 {
   ans=n*i;
-  system.out.println(ans);
+  System.out.println(ans);
 }
 
 }
