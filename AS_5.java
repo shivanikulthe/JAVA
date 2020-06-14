@@ -1,27 +1,27 @@
  class ASfive
 {
-public static void main(string[] args)
+public static void main(String[] args)
 {
 int mks=55;
 if(mks<35)
 {
-system.out.println("fail");
+System.out.println("fail");
 }
 else if(mks>35)
 {
-system.out.println("pass");
+System.out.println("pass");
 }
 else if(mks>50)
 {
-system.out.println("second class");
+System.out.println("second class");
 }
 else if(mks>60)
 {
-system.out.println("first class");
+System.out.println("first class");
 }
 else
 {
-system.out.println("destinction");
+System.out.println("destinction");
 }
 }
 }
