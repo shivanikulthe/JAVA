@@ -1,11 +1,11 @@
 public class AS_3
 {
-public static void main(string[] args)
+public static void main(String[] args)
 {
 int n=1;
 do
 {
-system.out.println(n);
+System.out.println(n);
 n++;
 }while(n<=10);
 }
