@@ -1,6 +1,6 @@
 public class AS_2
 {
-pulic static void int main(String[] args)
+pulic static void main(String[] args)
 {
 ch='a';
 switch(ch)
