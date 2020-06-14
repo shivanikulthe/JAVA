@@ -1,30 +1,30 @@
 public class AS_2
 {
-pulic static void int main(string[] args)
+pulic static void int main(String[] args)
 {
 ch='a';
 switch(ch)
 {
 case a:
-system.out.pritln("is vowel");
+System.out.pritln("is vowel");
 break;
-case A:system.out.pritln("is vowel");
+case A:System.out.pritln("is vowel");
 break;
-case e:system.out.pritln("is vowel");
+case e:System.out.pritln("is vowel");
 break;
-case E:system.out.pritln("is vowel");
+case E:System.out.pritln("is vowel");
 break;
-case i:system.out.pritln("is vowel");
+case i:System.out.pritln("is vowel");
 break;
-case I:system.out.pritln("is vowel");
+case I:System.out.pritln("is vowel");
 break;
-case o:system.out.pritln("is vowel");
+case o:System.out.pritln("is vowel");
 break;
-case O:system.out.pritln("is vowel");
+case O:System.out.pritln("is vowel");
 break;
-case u:system.out.pritln("is vowel");
+case u:System.out.pritln("is vowel");
 break;
-case U:system.out.pritln("is vowel");
+case U:System.out.pritln("is vowel");
 break;
 }
 }
