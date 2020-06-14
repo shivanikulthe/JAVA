@@ -8,7 +8,8 @@ public static void int main(string[] args)
  for(i=1;i<=10;i++)
 {
   ans=n*i;
+  system.out.println(ans);
 }
-system.out.println(ans);
+
 }
 }
